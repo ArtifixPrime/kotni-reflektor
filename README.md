@@ -1,7 +1,7 @@
 # kotni-reflektor
 Kotni reflektor za radar; Corner reflector for radar
 
-Predvidena debelina aluminjaste plošče - 0,8 mm
+Predvidena debelina aluminjaste plošče - 0,8 mm  
 Predvidena debelina reza - 0,9 mm (da se lahko posamezni kosi lažje zložijo skupaj)
 
 ### Nacrt razreza
